@@ -29,4 +29,7 @@ values('s1@jmu.edu','c1'),
 ('s2@jmu.edu','c3'),
 ('s3@jmu.edu','c3')
 
-	   
+--Q2.5
+/* The professor table must be modified first because there cannot be a course if the professor isn't entered first to teach it
+--Q2.6
+/* course
